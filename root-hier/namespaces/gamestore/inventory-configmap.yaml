@@ -8,3 +8,4 @@ data:
   single_player: "20"
   cooperative: "60"
   competitive: "300"
+  another_one: "100"
